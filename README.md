@@ -67,8 +67,8 @@ Now, Queue becomes empty, So, terminate these process of iteration.
 
 ### Program:
 ```
-NAME:AISHWARYA.S
-REG NO:212222100003
+NAME:A K MOHAN RAJ
+REG NO:212221230064
 ```
 ```
 from collections import deque
